@@ -14,25 +14,19 @@ I'm Jonathan Ródenas López, a DevOps student and FrontEnd Developer. I spend m
 
 - 🔭 I’m currently working on SchoolBros Project
 - 🌱 I’m currently learning Services Deployment
-- 🤔 I’m looking to learn new ways to improve my code.
+- 🤔 I’m looking to learn new ways to improve myself.
 - 📫 How to reach me: jonathanrodenaslopez1@gmail.com
 - 😄 Pronouns: Jonathan, Jony
 - ⚡ Fun fact: I love to collect and build mechanical keyboards. I also love playing videogames and doing graphical compositions using Photoshop.
 
-![Baronhez's github stats](https://github-readme-stats.vercel.app/api?username=Baronhez&count_private=true&custom_title=Jonathan%20Github%20Stats&theme=dracula&hide=contribs,prs)
-![Baronhez's most used Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baronhez&exclude_repo=My_Arch_Dotfiles&theme=dracula)
+![Baronhez's github stats](https://github-readme-stats.vercel.app/api?username=Baronhez&count_private=true&custom_title=Jonathan%20Github%20Stats&theme=dracula&&hide_border=True&hide=contribs,prs) ![Baronhez's most used Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baronhez&&layout=compact&hide_border=True&exclude_repo=My_Arch_Dotfiles&theme=dracula)
 
 
 ### Top Technologies
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ### Design
 ![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)
 
@@ -48,5 +42,5 @@ Be free to contact me for job recruiting:
 </summary>
 
 ### Btw I use
-[![Arch Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+[![Arch Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/)
 </details>
