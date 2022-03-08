@@ -17,7 +17,7 @@ I'm Jonathan Ródenas López, a DevOps student and FrontEnd Developer. I spend m
 - 🤔 I’m looking to learn new ways to improve myself.
 - 📫 How to reach me: jonathanrodenaslopez1@gmail.com
 - 😄 Pronouns: Jonathan, Jony
-- ⚡ Fun fact: I love to collect and build mechanical keyboards. I also love playing videogames and doing graphical compositions using Photoshop.
+- ⚡ Fun fact: I love to collect and build mechanical keyboards. I also love videogames and doing graphical compositions using Photoshop.
 
 ![Baronhez's github stats](https://github-readme-stats.vercel.app/api?username=Baronhez&count_private=true&custom_title=Jonathan%20Github%20Stats&theme=dracula&&hide_border=True&hide=contribs,prs) ![Baronhez's most used Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baronhez&&layout=compact&hide_border=True&exclude_repo=My_Arch_Dotfiles&theme=dracula)
 
