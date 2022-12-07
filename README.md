@@ -33,7 +33,7 @@ I'm Jonathan Ródenas López, a DevOps student and FrontEnd Developer. I spend m
 ### Business
 Be free to contact me for job recruiting:
 
-- :paperclip: [My Resume/CV](https://jonthan.xyz/Jonathan%20R%C3%B3denas%20L%C3%B3pez%20(English).pdf)
+- :paperclip: [My Resume/CV](https://jonthan.xyz/Jonathan%20R%C3%B3denas%20L%C3%B3pez%20Alta%20Calidad.pdf)
 - :email: jonathanrodenaslopez1@gmail.com
 
 <details>
