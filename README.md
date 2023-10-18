@@ -3,7 +3,7 @@
 ### Take a seat :)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Baronhez.Baronhez)
 
-I'm Jonathan Ródenas López, a DevOps engineer. I spend most of time learning about how to make devs lifes easier.
+I'm Jonathan Ródenas López, a DevOps Cloud Engineer. I spend most of time learning about how to make devs lifes easier and cloud architecture.
 #### I have a website, check it out!
 [![Website Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonthan.xyz/)
 
