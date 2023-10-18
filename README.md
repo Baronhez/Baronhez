@@ -1,7 +1,7 @@
 ## Hi, I'm Jonathan, nice to meet you! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 ### Take a seat :)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Baronhez.Baronhez)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBaronhez%2FBaronhez%2Ftree%2Fmain&label=Visitors&countColor=%23263759)
 
 I'm Jonathan Ródenas López, a DevOps Cloud Engineer. I spend most of time learning about how to make devs lifes easier and cloud architecture.
 #### I have a website, check it out!
