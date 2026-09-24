@@ -9,7 +9,7 @@ I'm Jonathan Ródenas López, a DevOps Cloud Engineer. I spend most of time lear
 
 :mailbox: Reach me out! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jonathan-r%C3%B3denas-l%C3%B3pez-45400115a)  [![Mail Badge](https://img.shields.io/badge/-jonathanrodenaslopez1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jonathanrodenaslopez1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jonathan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jonathan-r%C3%B3denas-l%C3%B3pez-45400115a) 
 
 
 - 🌱 I’m currently learning about cloud.
