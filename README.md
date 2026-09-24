@@ -14,7 +14,6 @@ I'm Jonathan Ródenas López, a DevOps Cloud Engineer. I spend most of time lear
 
 - 🌱 I’m currently learning about cloud.
 - 🤔 I’m looking to learn new ways to improve myself.
-- 📫 How to reach me: jonathanrodenaslopez1@gmail.com
 - ⚡ Fun fact: I love to collect and build mechanical keyboards.
 
 ### Top Technologies
